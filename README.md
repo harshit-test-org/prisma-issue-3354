@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository contains reproduction for https://github.com/prisma/prisma/issues/3342
+This repository contains reproduction for https://github.com/prisma/prisma/issues/3352
 
 
 ### Steps for Reproduction
